@@ -1,0 +1,2 @@
+#!/bin/bash
+nc tovel.blinkenlights.nl 23
